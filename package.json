@@ -1,0 +1,15 @@
+{
+    "name": "node-foauth",
+    "description": "client library for https://foauth.org",
+    "version": "0.0.1",
+    "author": "Derek Stobbe <djstobbe@gmail.com>",
+    "dependencies": {
+        "request": "2.12.x",
+        "hooker": "0.2.x"
+    },
+    "keywords": [
+        "oauth",
+        "foauth"
+    ],
+    "main": "./lib/node-foauth"
+}
